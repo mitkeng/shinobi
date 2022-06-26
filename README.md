@@ -2,6 +2,11 @@
 
 ## Collision Cross Section Approximation 
 #### This program uses experimentally derived linear or polynomial interpolation to approximate and predict new peptide collision cross section values. Thus far, it has been observed that greater than 75% of predicted ccs values using this program falls within 3.0% error of experimental ccs values.  
+<br/>
+
+![ccs_predict](https://user-images.githubusercontent.com/97419520/175796404-4b1f55ea-9ad3-4b0f-8b14-8839d2a086c2.png)
+
+
 
 <br/>
 <br/>
